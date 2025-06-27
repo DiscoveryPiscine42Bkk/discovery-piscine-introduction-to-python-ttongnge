@@ -1,4 +1,3 @@
-complete rush
 def checkmate(board_string):
     file = board_string.strip().split('\n')
     rank = len(file)
